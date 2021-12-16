@@ -9,7 +9,7 @@
 
 <br>
 
-### 💻 The Project T-Rex Game
+### 💻 The Project Snake Game
 This will be an application DIO (digital innovation one) in this challenge Html, CSS and JavaScript  concepts create an application to train what I have learned so far.
 
 ## 🧪 Technologies
